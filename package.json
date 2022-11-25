@@ -1,8 +1,8 @@
 {
-  "name": "com.pancake.feeback",
+  "name": "com.pancake.feedback",
   "displayName": "Feedback",
   "description": "Feedback",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "unity": "2019.3",
   "category": "pancake",
   "author": {
