@@ -1,9 +1,9 @@
 {
-  "name": "com.pancake.__package_name__",
-  "displayName": "__Package_Name__",
-  "description": "__Package_Description__",
+  "name": "com.pancake.feeback",
+  "displayName": "Feedback",
+  "description": "Feedback",
   "version": "1.0.0",
-  "unity": "2021.3",
+  "unity": "2019.3",
   "category": "pancake",
   "author": {
     "name": "yenmoc",
@@ -16,17 +16,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:pancake-llc/__name_repo_contain_package__.git",
-    "directory": "__Package_Display_Name__"
+    "url": "git@github.com:pancake-llc/feeback.git",
+    "directory": "Feedback"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@pancake-llc"
-  }/*,
+  },
   "samples": [
   {
-    "displayName": "__Sample Name__",
-    "description": "__Sample_Description__",
-    "path": "Samples~/__Name_Folder_Sample__"
+    "displayName": "Demo",
+    "description": "Demo Feedback",
+    "path": "Samples~/Feedback"
+  },
+  {
+    "displayName": "Resources",
+    "description": "Resources using for heart package",
+    "path": "Samples~/EssentialResources"
   }
-]*/
+]
 }
