@@ -2,7 +2,7 @@
   "name": "com.pancake.feedback",
   "displayName": "Feedback",
   "description": "Feedback",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "unity": "2019.3",
   "category": "pancake",
   "author": {
@@ -27,11 +27,6 @@
     "displayName": "Demo",
     "description": "Demo Feedback",
     "path": "Samples~/Feedback"
-  },
-  {
-    "displayName": "Resources",
-    "description": "Resources using for heart package",
-    "path": "Samples~/EssentialResources"
   }
 ]
 }
